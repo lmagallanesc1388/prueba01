@@ -1,0 +1,202 @@
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\ApplicationInsights.config
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll.config
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\TrabajoFinalWeb.pdb
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\csc.exe
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\csc.exe.config
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\csc.rsp
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\csi.exe
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\csi.rsp
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.AppContext.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\vbc.exe
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\vbc.exe.config
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\vbc.rsp
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Antlr3.Runtime.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\EntityFramework.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\EntityFramework.SqlServer.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.Web.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Newtonsoft.Json.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Owin.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Helpers.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Mvc.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Optimization.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Razor.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\WebGrease.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.pdb
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.Web.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Helpers.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Mvc.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Optimization.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.Razor.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Antlr3.Runtime.pdb
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Newtonsoft.Json.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\EntityFramework.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\EntityFramework.SqlServer.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.AssemblyReference.cache
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CopyComplete
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+D:\InformacionLuis\2. ESTUDIO Y APRENDIZAJE\8.ProyectosInformaticos\SistemaRestaurant\LaLucha\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\ApplicationInsights.config
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll.config
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\TrabajoFinalWeb.pdb
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\csc.exe
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\csc.exe.config
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\csc.rsp
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\csi.exe
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\csi.rsp
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.AppContext.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\vbc.exe
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\vbc.exe.config
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\vbc.rsp
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Antlr3.Runtime.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\EntityFramework.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\EntityFramework.SqlServer.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.Web.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Newtonsoft.Json.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Owin.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Helpers.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Mvc.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Optimization.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Razor.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\WebGrease.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.pdb
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.Web.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Helpers.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Mvc.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Optimization.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.Razor.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Antlr3.Runtime.pdb
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Newtonsoft.Json.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\EntityFramework.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\EntityFramework.SqlServer.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.AssemblyReference.cache
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CopyComplete
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+D:\ProyectosInformaticos\SistemaRestaurante\SistemaLaLucha\Aplicacion\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
